@@ -28,5 +28,7 @@ and Future Directions](papers/Akkus2017_Article_DeepLearningForBrainMRISegment.p
 
 ---
 
+MENZE, Bjoern H. et al. The multimodal brain tumor image segmentation benchmark (BRATS). IEEE transactions on medical imaging, v. 34, n. 10, p. 1993-2024, 2014.
+
 [The Multimodal Brain Tumor Image
-Segmentation Benchmark (BRATS)](papers/06975210.pdf)
+Segmentation Benchmark (BRATS)](papers/06975210.pdf)s
