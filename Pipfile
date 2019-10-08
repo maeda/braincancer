@@ -9,6 +9,11 @@ python_version = "3.7"
 [packages]
 keras = "*"
 jupyter = "*"
+nibabel = "*"
+tensorflow = "*"
+pydicom = "*"
+medpy = "*"
+matplotlib = ""
 
 [dev-packages]
 pytest = "*"

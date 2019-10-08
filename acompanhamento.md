@@ -12,6 +12,12 @@ marcado na imagem, o que poderá ajudar durante o treinamento do modelo. Enquant
 isso vamos criar a rede neural com os hiperparâmetros e topologia inicial [1].  
 
 
+## 08/10/2019
+
+Baixamos o dataset BRATS 2013 (https://www.smir.ch/BRATS/Start2013) e estamos tentando abrir as imagens para ver como o 
+*ground truth* se parece. As imagens estão no formato mha (https://github.com/Kitware/MetaIO).
+
+Estamos tentando visualizar as imagens e descobrir como fazer a marcação da região com câncer.
 
 ## Referências
 
